@@ -1,0 +1,13 @@
+cadreProfil{
+    background-color: black;
+    border-color: red;
+    height:200ox;
+    width: 200px;
+}
+
+.zoneClient{
+    margin-top: 25px;
+}
+.zoneClient .nav-item{
+    border-radius: 20%;
+}
